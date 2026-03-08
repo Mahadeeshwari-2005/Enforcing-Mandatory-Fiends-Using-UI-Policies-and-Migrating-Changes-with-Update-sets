@@ -1,1 +1,2 @@
-# Enforcing-Mandatory-Fiends-Using-UI-Policies-and-Migrating-Changes-with-Update-sets
+# Enforcing-Mandatory-Fields
+Enforcing mandatory field using ui policies and migrating changes with update sets
